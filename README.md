@@ -8,8 +8,8 @@ This Python script helps verify the integrity of files using SHA256 hashes. It i
 
 ## 👨‍💻 Author
 
-- **Name**: Hnin Lae Khaing  
-- **GitHub**: [github.com/hninlaekhaing](https://github.com/hninlaekhaing)  
+- **Name**: Anurag Batham 
+- **GitHub**: [github.com/AnuragBatham](https://github.com/AnuragBatham)  
 - **Project**: Built as part of a cybersecurity internship project
 
 ---

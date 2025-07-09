@@ -9,7 +9,7 @@ This Python script helps verify the integrity of files using SHA256 hashes. It i
 ## 👨‍💻 Author
 
 - **Name**: Anurag Batham 
-- **GitHub**: [github.com/AnuragBatham](https://github.com/AnuragBatham)  
+- **GitHub**: [github.com/AnuragBatham](https://github.com/ANURAGBATHAM2007)  
 - **Project**: Built as part of a cybersecurity internship project
 
 ---
